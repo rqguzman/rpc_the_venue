@@ -1,5 +1,7 @@
 # Project description
 
+![Screen Shot 2021-03-26 at 11 18 17](https://user-images.githubusercontent.com/5140162/112645370-288a0480-8e25-11eb-8cf8-03f146f98e44.png)
+
 This project is part of the “React practice course, learn by building projects”, from Udemy.
 It features a static web project for a fictitious Ghost gig.
 
