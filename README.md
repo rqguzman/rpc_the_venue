@@ -1,3 +1,11 @@
+# Project description
+
+This project is part of the “React practice course, learn by building projects”, from Udemy.
+It features a static web project for a fictitious Ghost gig.
+
+The original fictitious date for this gig to happen is on July 17, 2021. 
+So, if you're checking out this project from the future, you might miss the "cool" countdown effect.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
