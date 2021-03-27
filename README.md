@@ -1,3 +1,6 @@
+# The Venue
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/rqguzman/rpc_the_venue/blob/main/LICENSE)
+
 # Project description
 
 ![Screen Shot 2021-03-26 at 11 18 17](https://user-images.githubusercontent.com/5140162/112645370-288a0480-8e25-11eb-8cf8-03f146f98e44.png)
